@@ -10,6 +10,7 @@ public class SampleQueueApplication {
 		SpringApplication.run(SampleQueueApplication.class, args);
 		
 		System.out.println("Hi!");
+		System.out.println("hotfix branch change!!");
 	}
 
 }
