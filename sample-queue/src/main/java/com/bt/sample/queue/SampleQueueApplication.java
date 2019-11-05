@@ -12,6 +12,8 @@ public class SampleQueueApplication {
 		System.out.println("Hi!");
 		System.out.println("change master");
 		System.out.println("hotfix branch change!!");
+		
+		System.out.println("change master one more!!!");
 	}
 
 }
